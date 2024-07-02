@@ -1,0 +1,53 @@
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: #007bff;
+    text-align: center;
+}
+#welcome h2{
+    margin-top: 3rem;
+    font-size: 2rem;
+    color: #cce5ff;
+}
+
+
+#category{
+    width: 200px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    margin: 0 auto;
+}
+#category button{
+    font-size: 25px;
+    font-weight: 500;
+    color: #007bff;
+    padding: 15px 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #fff;
+    cursor: pointer;
+    margin-top: 10px;
+}
+#category button a{
+    text-decoration: none;
+    color: #343a40;
+}
+
+#category h3{
+    font-size: 1.2rem;
+    color: #fff;
+    margin-bottom: -1.5rem;
+    margin-top: 1.5rem;
+}

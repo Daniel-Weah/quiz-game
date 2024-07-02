@@ -1,0 +1,112 @@
+[
+    {
+        "numb": 1,
+        "question": "Which company developed JavaScript?",
+        "answer": "Netscape",
+        "options": [
+           "Mozilla",
+            "Netscape",
+            "Sun Microsystems",
+            "Oracle"
+        ]
+    },
+    {
+        "numb": 2,
+        "question": "How do you write 'Hello World' in an alert box?",
+        "answer": "alert('Hello World');",
+        "options": [
+            "alertBox('Hello World');",
+            "msg('Hello World');",
+            "alert('Hello World');",
+            "msgBox('Hello World');"
+        ]
+    },
+    {
+        "numb": 3,
+        "question": "How do you create a function in JavaScript?",
+        "answer": "function myFunction()",
+        "options": [
+            "function:myFunction()",
+            "function myFunction()",
+            "function = myFunction()",
+            "function => myFunction()"
+        ]
+    },
+    {
+        "numb": 4,
+        "question": "How do you call a function named 'myFunction'?",
+        "answer": "myFunction()",
+        "options": [
+            "call myFunction()",
+            "call function myFunction()",
+            "myFunction()",
+            "Call.myFunction()"
+        ]
+    },
+    {
+        "numb": 5,
+        "question": "How to write an IF statement in JavaScript?",
+        "answer": "if (i == 5)",
+        "options": [
+            "if i == 5 then",
+            "if (i == 5)",
+            "if i = 5",
+            "if i = 5 then"
+        ]
+    },
+    {
+        "numb": 6,
+        "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+        "answer": "if (i != 5)",
+        "options": [
+            "if (i <> 5)",
+            "if i <> 5",
+            "if i =! 5 then",
+            "if (i != 5)"
+        ]
+    },
+    {
+        "numb": 7,
+        "question": "How does a WHILE loop start?",
+        "answer": "while (i <= 10)",
+        "options": [
+           "while i = 1 to 10",
+           "while (i <= 10; i++)",
+           "while (i <= 10)",
+           "while (i < 10 i++)"
+        ]
+    },
+    {
+        "numb": 8,
+        "question": "How does a FOR loop start?",
+        "answer": "for (i = 0; i <= 5; i++)",
+        "options": [
+            "for (i <= 5; i++)",
+            "for i = 1 to 5",
+            "for (i = 0; i <= 5)",
+            "for (i = 0; i <= 5; i++)"
+        ]
+    },
+    {
+        "numb": 9,
+        "question": "How can you add a comment in JavaScript?",
+        "answer": "//This is a comment",
+        "options": [
+            "'This is a comment",
+            "//This is a comment",
+            "--This is a comment",
+            "#This is a comment"
+        ]
+    },
+    {
+        "numb": 10,
+        "question": "What is the correct way to write a JavaScript array?",
+        "answer": "var colors = ['red', 'green', 'blue']",
+        "options": [
+            "var colors = 'red', 'green', 'blue'",
+            "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+            "var colors = (1:'red', 2:'green', 3:'blue')",
+            "var colors = ['red', 'green', 'blue']"
+        ]
+    }
+]

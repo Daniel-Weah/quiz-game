@@ -1,0 +1,114 @@
+[
+    {
+        "numb": 1,
+        "question": "Which property is used to change the background color?",
+        "answer": "background-color",
+        "options": [
+            "color",
+            "background-color",
+            "backgroundcolor",
+            "bgcolor"
+        ]
+    },
+    {
+        "numb": 2,
+        "question": "Which CSS property controls the text size?",
+        "answer": "font-size",
+        "options": [
+            "font-style",
+            "text-size",
+            "font-size",
+            "text-style"
+        ]
+    },
+    {
+        "numb": 3,
+        "question": "Which CSS property is used to change the text color of an element?",
+        "answer": "color",
+        "options": [
+            "fgcolor",
+            "text-color",
+            "color",
+            "font-color"
+        ]
+    },
+    {
+        "numb": 4,
+        "question": "Which property is used to change the font of an element?",
+        "answer": "font-family",
+        "options": [
+            "font-family",
+            "font-style",
+            "font-weight",
+            "font"
+        ]
+    },
+    {
+        "numb": 5,
+        "question": "Which CSS property is used to change the spacing between lines of text?",
+        "answer": "line-height",
+        "options": [
+            "line-spacing",
+            "letter-spacing",
+            "text-spacing",
+            "line-height"
+        ]
+    },
+    {
+        "numb": 6,
+        "question": "Which property is used to change the left margin of an element?",
+        "answer": "margin-left",
+        "options": [
+            "margin-left",
+            "padding-left",
+            "left-padding",
+            "left-margin"
+        ]
+    },
+    {
+        "numb": 7,
+        "question": "Which property is used to change the background color?",
+        "answer": "background-color",
+        "options": [
+            "color",
+            "background-color",
+            "background",
+            "bgcolor"
+        ]
+    },
+    {
+        "numb": 8,
+        "question": "Which property is used to change the background color of an element?",
+        "answer": "background-color",
+        "options": [
+          "color",
+          "background-color",
+          "bgcolor",
+          "bg-color"
+        ]
+      },
+      {
+        "numb": 9,
+        "question": "Which property is used to change the text color of an element?",
+        "answer": "color",
+        "options": [
+          "font-color",
+          "text-color",
+          "color",
+          "text-style"
+        ]
+      }
+      ,
+    {
+        "numb": 10,
+        "question": "How can you create an unordered list in HTML?",
+        "answer": "ul",
+        "options": [
+            "ol",
+            "list",
+            "ul",
+            "li"
+        ]
+    }
+    
+]

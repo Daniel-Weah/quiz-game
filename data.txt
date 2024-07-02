@@ -1,0 +1,308 @@
+{
+    "html": {
+        "q1": {
+            "question": "What does HTML stand for?",
+            "choices": {
+                "a": "Hyper Text Markup Language",
+                "b": "Home Tool Markup Language",
+                "c": "Hyperlinks and Text Markup Language",
+                "d": "Hyper Tool Markup Language"
+            },
+            "correctAnswer": "a"
+        },
+        "q2": {
+            "question": "Which HTML tag is used to define an internal style sheet?",
+            "choices": {
+                "a": "<script>",
+                "b": "<style>",
+                "c": "<css>",
+                "d": "<link>"
+            },
+            "correctAnswer": "b"
+        },
+        "q3": {
+            "question": "What is the correct HTML element for the largest heading?",
+            "choices": {
+                "a": "<head>",
+                "b": "<h1>",
+                "c": "<h6>",
+                "d": "<heading>"
+            },
+            "correctAnswer": "b"
+        },
+        "q4": {
+            "question": "What is the correct HTML element for inserting a line break?",
+            "choices": {
+                "a": "<br>",
+                "b": "<break>",
+                "c": "<lb>",
+                "d": "<line>"
+            },
+            "correctAnswer": "a"
+        },
+        "q5": {
+            "question": "Which HTML element is used to specify a footer for a document or section?",
+            "choices": {
+                "a": "<footer>",
+                "b": "<bottom>",
+                "c": "<section>",
+                "d": "<foot>"
+            },
+            "correctAnswer": "a"
+        },
+        "q6": {
+            "question": "Which HTML attribute is used to define inline styles?",
+            "choices": {
+                "a": "style",
+                "b": "styles",
+                "c": "class",
+                "d": "font"
+            },
+            "correctAnswer": "a"
+        },
+        "q7": {
+            "question": "Which HTML element is used to specify a header for a document or section?",
+            "choices": {
+                "a": "<head>",
+                "b": "<header>",
+                "c": "<section>",
+                "d": "<h1>"
+            },
+            "correctAnswer": "b"
+        },
+        "q8": {
+            "question": "How can you create an unordered list in HTML?",
+            "choices": {
+                "a": "<ol>",
+                "b": "<list>",
+                "c": "<ul>",
+                "d": "<li>"
+            },
+            "correctAnswer": "c"
+        },
+        "q9": {
+            "question": "What is the correct HTML for making a checkbox?",
+            "choices": {
+                "a": "<input type='checkbox'>",
+                "b": "<input type='check'>",
+                "c": "<check>",
+                "d": "<checkbox>"
+            },
+            "correctAnswer": "a"
+        },
+        "q10": {
+            "question": "Which HTML element is used to display a scalar measurement within a range?",
+            "choices": {
+                "a": "<gauge>",
+                "b": "<measure>",
+                "c": "<meter>",
+                "d": "<range>"
+            },
+            "correctAnswer": "c"
+        }
+    },
+    "css": {
+        "q1": {
+            "question": "Which property is used to change the background color?",
+            "choices": {
+                "a": "color",
+                "b": "background-color",
+                "c": "bgcolor",
+                "d": "background"
+            },
+            "correctAnswer": "b"
+        },
+        "q2": {
+            "question": "Which CSS property controls the text size?",
+            "choices": {
+                "a": "font-style",
+                "b": "text-size",
+                "c": "font-size",
+                "d": "text-style"
+            },
+            "correctAnswer": "c"
+        },
+        "q3": {
+            "question": "Which CSS property is used to change the text color of an element?",
+            "choices": {
+                "a": "fgcolor",
+                "b": "text-color",
+                "c": "color",
+                "d": "font-color"
+            },
+            "correctAnswer": "c"
+        },
+        "q4": {
+            "question": "Which property is used to change the font of an element?",
+            "choices": {
+                "a": "font-style",
+                "b": "font-weight",
+                "c": "font-family",
+                "d": "font"
+            },
+            "correctAnswer": "c"
+        },
+        "q5": {
+            "question": "Which CSS property is used to change the spacing between lines of text?",
+            "choices": {
+                "a": "line-height",
+                "b": "line-spacing",
+                "c": "letter-spacing",
+                "d": "text-spacing"
+            },
+            "correctAnswer": "a"
+        },
+        "q6": {
+            "question": "Which property is used to change the left margin of an element?",
+            "choices": {
+                "a": "padding-left",
+                "b": "margin-left",
+                "c": "left-padding",
+                "d": "left-margin"
+            },
+            "correctAnswer": "b"
+        },
+        "q7": {
+            "question": "How do you make a list that lists its items with squares?",
+            "choices": {
+                "a": "list-style-type: square;",
+                "b": "list: square;",
+                "c": "list-type: square;",
+                "d": "list-style: square;"
+            },
+            "correctAnswer": "a"
+        },
+        "q8": {
+            "question": "How do you select an element with id 'demo'?",
+            "choices": {
+                "a": "#demo",
+                "b": ".demo",
+                "c": "demo",
+                "d": "*demo"
+            },
+            "correctAnswer": "a"
+        },
+        "q9": {
+            "question": "How do you select elements with class name 'test'?",
+            "choices": {
+                "a": ".test",
+                "b": "#test",
+                "c": "*test",
+                "d": "test"
+            },
+            "correctAnswer": "a"
+        },
+        "q10": {
+            "question": "Which property is used to change the width of an element?",
+            "choices": {
+                "a": "width",
+                "b": "length",
+                "c": "height",
+                "d": "size"
+            },
+            "correctAnswer": "a"
+        }
+    },
+    "js": {
+        "q1": {
+            "question": "Which company developed JavaScript?",
+            "choices": {
+                "a": "Mozilla",
+                "b": "Netscape",
+                "c": "Sun Microsystems",
+                "d": "Oracle"
+            },
+            "correctAnswer": "b"
+        },
+        "q2": {
+            "question": "How do you write 'Hello World' in an alert box?",
+            "choices": {
+                "a": "alertBox('Hello World');",
+                "b": "msg('Hello World');",
+                "c": "alert('Hello World');",
+                "d": "msgBox('Hello World');"
+            },
+            "correctAnswer": "c"
+        },
+        "q3": {
+            "question": "How do you create a function in JavaScript?",
+            "choices": {
+                "a": "function:myFunction()",
+                "b": "function myFunction()",
+                "c": "function = myFunction()",
+                "d": "function => myFunction()"
+            },
+            "correctAnswer": "b"
+        },
+        "q4": {
+            "question": "How do you call a function named 'myFunction'?",
+            "choices": {
+                "a": "call myFunction()",
+                "b": "call function myFunction()",
+                "c": "myFunction()",
+                "d": "Call.myFunction()"
+            },
+            "correctAnswer": "c"
+        },
+        "q5": {
+            "question": "How to write an IF statement in JavaScript?",
+            "choices": {
+                "a": "if i == 5 then",
+                "b": "if (i == 5)",
+                "c": "if i = 5",
+                "d": "if i = 5 then"
+            },
+            "correctAnswer": "b"
+        },
+        "q6": {
+            "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+            "choices": {
+                "a": "if (i <> 5)",
+                "b": "if i <> 5",
+                "c": "if i =! 5 then",
+                "d": "if (i != 5)"
+            },
+            "correctAnswer": "d"
+        },
+        "q7": {
+            "question": "How does a WHILE loop start?",
+            "choices": {
+                "a": "while i = 1 to 10",
+                "b": "while (i <= 10; i++)",
+                "c": "while (i <= 10)",
+                "d": "while (i < 10 i++)"
+            },
+            "correctAnswer": "c"
+        },
+        "q8": {
+            "question": "How does a FOR loop start?",
+            "choices": {
+                "a": "for (i <= 5; i++)",
+                "b": "for i = 1 to 5",
+                "c": "for (i = 0; i <= 5)",
+                "d": "for (i = 0; i <= 5; i++)"
+            },
+            "correctAnswer": "d"
+        },
+        "q9": {
+            "question": "How can you add a comment in JavaScript?",
+            "choices": {
+                "a": "'This is a comment",
+                "b": "//This is a comment",
+                "c": "<!--This is a comment-->",
+                "d": "#This is a comment"
+            },
+            "correctAnswer": "b"
+        },
+        "q10": {
+            "question": "What is the correct way to write a JavaScript array?",
+            "choices": {
+                "a": "var colors = 'red', 'green', 'blue'",
+                "b": "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+                "c": "var colors = (1:'red', 2:'green', 3:'blue')",
+                "d": "var colors = ['red', 'green', 'blue']"
+            },
+            "correctAnswer": "d"
+        }
+    }
+}
