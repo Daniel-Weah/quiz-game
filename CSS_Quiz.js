@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Fetch questions from JSON file
-  fetch("../CSSQuestions.json")
+  fetch("CSSQuestions.json")
     .then((response) => response.json())
     .then((data) => {
       let questions = data;
